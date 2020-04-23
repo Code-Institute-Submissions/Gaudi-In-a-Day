@@ -1,1 +1,9 @@
 font-family: 'Noto Sans', sans-serif;
+
+/* footer */
+footer {
+  background-color: #F37748;
+  color: #fff;
+  min-height: 120px;
+  margin: 0;
+}
