@@ -6,11 +6,6 @@ body {
   line-height: 2.5rem;
   font-size: 1rem;
 }
-.bg-light {
-    background-color: #fff;
-    position: fixed;
-}
-
 nav a:hover {
   background-color: #F37748;
   color: #4B4453;
@@ -25,7 +20,7 @@ title {
 }
 
 #intro-image {
-  background: linear-gradient(to bottom, rgba(34, 143, 255, 0.4) 0%, rgba(79, 70, 87, 0.3) 100%), url(../images/background.jpg) no-repeat center 75%;
+  background: linear-gradient(to bottom, rgba(34, 143, 255, 0.4) 0%, rgba(79, 70, 87, 0.3) 100%), url(../assets/images/background.jpg) no-repeat center 75%;
   background-size: cover;
   position: relative;
   height: 60vh;
@@ -35,6 +30,15 @@ title {
   text-align: center;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
 #intro-image h1 {
   margin-top: 50px;
   margin-bottom: 50px;
@@ -47,6 +51,11 @@ title {
   color: #fff;
 }
 
+p {
+  color: #4B4453;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
 /* footer */
 footer {
   background-color: #F37748;
