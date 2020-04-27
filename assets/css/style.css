@@ -33,7 +33,14 @@ title {
   text-align: center;
 }
 
-
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
 }
 #intro-image h1 {
   padding-top: 50px;
