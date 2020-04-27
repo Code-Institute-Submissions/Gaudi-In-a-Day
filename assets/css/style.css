@@ -8,7 +8,7 @@ body {
   text-align: center;
 }
 
-/*
+/* nav */ 
 nav a:hover {
   background-color: #F37748;
   color: #4B4453;
@@ -21,7 +21,7 @@ a:nav-link {
 title {
   margin-top: 50px;
 }
-*/
+
 
 #intro-image {
   background: linear-gradient(to bottom, rgba(34, 143, 255, 0.4) 0%, rgba(79, 70, 87, 0.3) 100%), url(../images/background.jpg) no-repeat center 75%;
