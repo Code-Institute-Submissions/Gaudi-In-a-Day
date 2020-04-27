@@ -2,12 +2,11 @@
 
 
 body {
-  font-weight: 600;
-  line-height: 2.5rem;
-  font-size: 1rem;
-  margin: 5rem;
+  margin: 5rem 5rem;
   text-align: center;
 }
+
+/*
 nav a:hover {
   background-color: #F37748;
   color: #4B4453;
@@ -20,7 +19,7 @@ a:nav-link {
 title {
   margin-top: 50px;
 }
-
+*/
 #intro-image {
   background: linear-gradient(to bottom, rgba(34, 143, 255, 0.4) 0%, rgba(79, 70, 87, 0.3) 100%), url(../assets/images/background.jpg) no-repeat center 75%;
   background-size: cover;
