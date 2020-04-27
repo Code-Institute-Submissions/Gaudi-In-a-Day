@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
 
+body {
+  font-weight: 600;
+  line-height: 2.5rem;
+  font-size: 1rem;
+}
+
 /* landing picture */
 #intro-image {
   background: linear-gradient(to bottom, rgba(34, 143, 255, 0.4) 0%, rgba(79, 70, 87, 0.3) 100%), url(../assets/images/background.jpg) no-repeat center 75%;
@@ -12,6 +18,17 @@
   text-align: center;
 }
 
+#intro-image h1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: #fff;
+  text-shadow: 3px 3px #F37748;
+}
+
+#intro-image p {
+  color: #fff;
+}
 
 /* footer */
 footer {
