@@ -5,6 +5,8 @@ body {
   font-weight: 600;
   line-height: 2.5rem;
   font-size: 1rem;
+  margin: 5rem;
+  text-align: center;
 }
 nav a:hover {
   background-color: #F37748;
@@ -56,6 +58,11 @@ p {
   margin-bottom: 50px;
   margin-top: 50px;
 }
+
+section {
+    padding-top: 5rem;
+}
+
 /* footer */
 footer {
   background-color: #F37748;
