@@ -58,9 +58,6 @@ p {
   color: #4B4453;
 }
 
-section {
-    padding-top: 5rem;
-}
 /* image card styling */
 .card-class img:hover {
   opacity: 0.3;
