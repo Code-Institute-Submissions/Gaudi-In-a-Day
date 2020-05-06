@@ -7,25 +7,13 @@ body {
   text-align: center;
 }
 
-/* nav 
+/* nav */ 
 nav a:hover {
   background-color: #F37748;
   color: #4B4453;
 }
 
-a:nav-link {
-  background-color: #F37748;
-  color: #4B4453;
-*/
-
-nav ul li a {
-  position:relative;
-  z-index: 1;
-}
-nav-link ul li a:hover {
-  color: #F37748
-}
-nav-link ul li a:after {
+.navbar ul li a:after {
   display: block;
   position: absolute;
   top: 0;
@@ -37,17 +25,16 @@ nav-link ul li a:after {
   height: 1px;
   content: '.';
   color: transparent;
-  background: #F37748
+  background: #F1C40F;
   visibility: none;
   opacity: 0;
   z-index: -1;
 }
-nav.shift ul li a:hover:after {
+.navbar ul li a:hover:after {
   opacity: 1;
   visibility: visible;
   height: 100%;
 }
-
 title {
   margin-top: 50px;
 }
