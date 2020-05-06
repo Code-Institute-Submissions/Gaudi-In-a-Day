@@ -8,6 +8,9 @@ body {
 }
 
 /* nav */ 
+.navbarNav {
+    background-color: #fff;
+}
 nav a:hover {
   background-color: #F37748;
   color: #4B4453;
@@ -25,7 +28,7 @@ nav a:hover {
   height: 1px;
   content: '.';
   color: transparent;
-  background: #F1C40F;
+  background: #fff;
   visibility: none;
   opacity: 0;
   z-index: -1;
@@ -49,6 +52,10 @@ title {
   align-items: center;
   justify-content: center;
   text-align: center;
+}
+
+.container {
+  padding-top: 15px
 }
 
 h1,
@@ -75,17 +82,9 @@ h5 {
 p {
   color: #4B4453;
 }
-
 /* image card styling */
 .card-class img:hover {
   opacity: 0.3;
-}
-
-button[type="submit"] {
-    margin-top: 15px;
-    margin-bottom: 20px;
-    background-color:  rgba(74, 158, 237);
-    color: #fafafa;
 }
 
 /* footer */
