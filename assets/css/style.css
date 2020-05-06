@@ -63,6 +63,13 @@ p {
   opacity: 0.3;
 }
 
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color:  rgba(74, 158, 237);
+    color: #fafafa;
+}
+
 /* footer */
 footer {
   background-color: #F37748;
