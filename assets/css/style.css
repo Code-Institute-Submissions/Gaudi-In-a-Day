@@ -17,14 +17,15 @@ a:nav-link {
   background-color: #F37748;
   color: #4B4453;
 */
-  nav.shift ul li a {
+
+nav ul li a {
   position:relative;
   z-index: 1;
 }
-nav ul li a:hover {
+nav-link ul li a:hover {
   color: #F37748
 }
-nav ul li a:after {
+nav-link ul li a:after {
   display: block;
   position: absolute;
   top: 0;
