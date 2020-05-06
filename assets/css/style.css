@@ -82,7 +82,6 @@ footer {
   text-decoration: none;
 }
 .footer-details {
-  background: #3B5998;
   color: white;
 }
 
@@ -102,5 +101,5 @@ footer {
 }
 
 .social-links li a i:hover {
-  background: #4B4453;
+  background: rgba(74, 158, 237);
 }
