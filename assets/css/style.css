@@ -13,7 +13,7 @@ body {
 }
 nav a:hover {
   background-color: #F37748;
-  color: #4B4453;
+  color: #fff;
 }
 
 .navbar ul li a:after {
