@@ -54,10 +54,6 @@ nav a:hover {
   text-align: center;
 }
 
-.container {
-  padding-top: 15px
-}
-
 h1,
 h2,
 h3,
@@ -67,7 +63,7 @@ h5 {
   margin-bottom: 50px;
   text-align: center;
 }
-#intro-image h1 {
+#intro-h1 {
   padding-top: 50px;
   padding-bottom: 50px;
   text-align: center;
