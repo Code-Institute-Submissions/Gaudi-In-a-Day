@@ -53,7 +53,13 @@ nav a:hover {
   justify-content: center;
   text-align: center;
 }
+.about-text {
+    height: 100vh;
+}
 
+.gallery { 
+    height: 100vh;
+}
 h1,
 h2,
 h3,
