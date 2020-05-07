@@ -72,17 +72,18 @@ p {
 }
 
 /* footer */
-footer {
+ footer {
   background-color: #F37748;
   color: #fff;
   min-height: 120px;
   margin: 0;
 }
+
 #footer-details {
   padding: 20px;
 }
 
-.fa {
+.fab {
   padding: 15px;
   font-size: 20px;
   width: 50px;
@@ -90,7 +91,12 @@ footer {
   text-decoration: none;
 }
 
-.social-links {
+.footer-details {
+  background: #3B5998;
+  color: white;
+}
+
+.social-links li a i {
   width: 32px;
   height: 32px;
   padding: 12px 0;
@@ -105,6 +111,6 @@ footer {
   -o-transition: all 0.35s ease-in-out;
 }
 
-.social-links i:hover {
-  background: rgba(74, 158, 237);
+.social-links li a i:hover {
+  background: #4B4453;
 }
