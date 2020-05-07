@@ -32,11 +32,7 @@ a:nav-link {
   justify-content: center;
   text-align: center;
 }
-.about-text {
-    height: 100vh;
-}
-
-.gallery { 
+.about-text, .gallery {
     height: 100vh;
 }
 
