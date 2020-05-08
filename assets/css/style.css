@@ -13,12 +13,17 @@ body {
 /* nav */ 
 nav a:hover {
   background-color: #F37748;
-  color: #4B4453;
+  color: #fff;
 }
 
-a:nav-link {
-  background-color: #F37748;
-  color: #4B4453;
+.nav-link a {
+  color: #fff;
+}
+.fixed-top {
+    background:#f3774896;
+}
+.navbar-light .navbar-brand {
+    color: #fff;
 }
 
 .intro-h1 {
