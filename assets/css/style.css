@@ -95,7 +95,7 @@ a:nav-link {
     display: block;
     margin-bottom: 20px;
     color: #F37748;
-    text-align: center;
+
 }
 #intro-image {
   background: linear-gradient(to bottom, rgba(34, 143, 255, 0.4) 0%, rgba(79, 70, 87, 0.3) 100%), url(../images/background.jpg) no-repeat center 75%;
