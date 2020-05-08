@@ -46,7 +46,9 @@ navbar-nav {
 .about-text, .gallery {
     height: 100vh;
 }
-
+.gallery {
+    height: 100vh;
+}
 /* footer */
  footer {
   background-color: #F37748;
