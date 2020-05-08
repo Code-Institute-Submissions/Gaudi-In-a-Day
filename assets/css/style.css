@@ -50,7 +50,7 @@ a:nav-link {
 }
 
 #footer-details {
-  padding: 50px;
+  padding: 5rem;
 }
 
 .fab {
@@ -105,11 +105,10 @@ h2,
 h3,
 h4,
 h5 {
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
   text-align: center;
 }
-
 
 p {
   color: #4B4453;
