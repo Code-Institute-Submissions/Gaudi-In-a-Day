@@ -84,7 +84,11 @@ a:nav-link {
 .social-links li a i:hover {
   background: #4B4453;
 }
-
+.btn-lg {
+    color: #fff;
+    background-color: #F37748;
+    border-color: #fff;
+}
 #intro-image {
   background: linear-gradient(to bottom, rgba(34, 143, 255, 0.4) 0%, rgba(79, 70, 87, 0.3) 100%), url(../images/background.jpg) no-repeat center 75%;
   background-size: cover;
