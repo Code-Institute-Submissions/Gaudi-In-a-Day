@@ -46,9 +46,7 @@ navbar-nav {
 .about-text, .gallery {
     height: 100vh;
 }
-.gallery {
-    height: 100vh;
-}
+
 /* footer */
  footer {
   background-color: #F37748;
@@ -58,7 +56,7 @@ navbar-nav {
 }
 
 #footer-details {
-  padding: 5rem;
+  padding: 2.5rem;
 }
 
 .fab {
