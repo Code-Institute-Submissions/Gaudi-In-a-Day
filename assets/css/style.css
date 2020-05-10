@@ -96,8 +96,8 @@ navbar-nav {
     border-color: #fff;
 }
 .line {
-    width: 25%;
-    border-bottom: 5px solid;
+    width: 20%;
+    border-bottom: 3px solid;
     display: block;
     margin: 20px auto;
     color: #F37748;
