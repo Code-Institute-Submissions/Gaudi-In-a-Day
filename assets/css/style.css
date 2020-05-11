@@ -58,6 +58,7 @@ navbar-nav {
 #footer-details {
   padding: 2.5rem;
 }
+
 /* footer icons */
 .fab {
   padding: 1.5rem;
@@ -66,12 +67,10 @@ navbar-nav {
   text-align: center;
   text-decoration: none;
 }
-
 .footer-details {
   background: #3B5998;
   color: white;
 }
-
 .social-links li a i {
   width: 32px;
   height: 32px;
@@ -86,7 +85,6 @@ navbar-nav {
   -webkit-transition: all 0.35s ease-in-out;
   -o-transition: all 0.35s ease-in-out;
 }
-
 .social-links li a i:hover {
   background: #4B4453;
 }
@@ -103,7 +101,7 @@ navbar-nav {
     width: 20%;
     border-bottom: 3px solid;
     display: block;
-    margin: 20px auto;
+    margin: 50px auto;
     color: #F37748;
 
 }
