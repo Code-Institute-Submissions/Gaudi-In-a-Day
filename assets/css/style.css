@@ -114,7 +114,7 @@ navbar-nav {
 form {
     height: 70vh;
 }
-
+p,
 h1,
 h2,
 h3,
@@ -126,9 +126,6 @@ h5 {
   color: #4B4453;
 }
 
-p {
-  color: #4B4453;
-}
 /* image card styling */
 .card-class img:hover {
   opacity: 0.3;
