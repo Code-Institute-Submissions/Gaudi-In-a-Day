@@ -45,6 +45,8 @@ Other features that are to note is the user can get in touch easily by navigatio
 
 **About**: This section covers a little bit about Antoni Gaudi and a link to his Wikipedia webpage if the user wishes to find out more about him. 
 
+**Gallery**: This section shows 3 clickble images that when clicked will take them to the chosen image with information on what to do in  that part of the day.
+
 **Contact**: Is a section to ask for more information on how it works, speak to us or how to book the day.
 
 ## Existing Features 
@@ -69,7 +71,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 
 * Possible change to a multipage website with more days and activities added 
 
-* More links for places to eat 
+* More links for places to eat etc
 
 * Map of where the hot attractions are and how to get to them
 * Reviews
@@ -89,7 +91,7 @@ Below are a list of the programming languages, technologies and frameworks used 
 * JQuery
 * Boostnote
   * Used to write the README.md file.
-* Bootstrap4.3.1 framework
+* Bootstrap 4.4.1 framework
   * The website uses bootstrap framework for it's grid system, page layout, button styling and responsive navigation bar.
 * Gitpod was the IDE used to write the code for this website.
 * Balsamic was used to create the wireframes for this project
@@ -105,13 +107,23 @@ Below are a list of the programming languages, technologies and frameworks used 
 
 
 ### Platforms:
-*
-*
-*
-*
+* Ipad (768 x 1024)
+* Iphone X 
+* Iphone 7
+* Iphone 8 
+* MacBook Air
+* Lenovo Idea Pad (Windows 10)
+
 Manual testing was also conducted to ensure the user story objectives were acheived.
 
-Contact Form:
+## Bugs
+At the begining of this project I knew what I wanted it to look like, I unfortunetly focused on Desktop screen more that Mobile this meant that the 3 card images that are click-able with the 3 buildings were supposed to grow in size I later found out that when being selected they were moving the titles of the images and the about section with Gaudi. To fix this I removed the groth as it didn't work well with tablet or mobile and applied a opacity blur ot the images which looks alot better.
+
+The Contact form when you submit it it doesn't actually submit the form, I found this out via Dev tools on the Google Chrome.
+
+I also came to learn the smooth scrolling behaviour I had implamened for a smooth transaction between the navigation bar and the images wasn't working on most browesers. but I have kept it for better UX when on tablets/mobiles.
+
+This was used on a number of occasions to find bugs with my code and missing items this was found on Dev tools and code verifier.
 
 ## Deployment
 
@@ -149,7 +161,7 @@ OR
 #### Code
 * Bootstrap
   * Image Cards 
-* 
+
 
 
 #### Content
@@ -168,3 +180,7 @@ OR
 * Some images for this web site are being used under free commercial license from AdobeStock
 
 ## Acknowledgements
+
+* My mentor Simen (legend)
+* Everyone at Slack and Student Care
+* My love for architecture
