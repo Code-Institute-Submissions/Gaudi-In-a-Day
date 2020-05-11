@@ -80,8 +80,9 @@ Other features that are to note is the user can get in touch easily by navigatio
 The theme of this project is called Gaudi In a Day. It will be based on his architecture. 
 
 * Fonts: I have chose **Nato Sans**, I have chose this font as it is simple and easy to read from.
-* Colours: Colours I am going with chosen colours from the mosiac in the landing pages which will range from oranges, reds and blues. They stand out nicely with the white that the rest of the site will be. 
+* Colours: Colour I chose is an burned orange as my main colour. This was taken from the mosaic, I felt this colour would stand out and be easy be easily read against the white back drop.
 * Images: Will be selected carefully of 3 buildings from Antonio Gaudis collection and most well known work.
+* Icons: The icons used are self explanatory so that the user does not need to struggle to notice what the icon will actually do. I use the icon to display the classic ‘burger-button’ on tablet and mobile devices.
 ## Technologies Used
 
 Below are a list of the programming languages, technologies and frameworks used for this website:
