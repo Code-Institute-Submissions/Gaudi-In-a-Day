@@ -28,6 +28,9 @@ navbar-nav {
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
 }
+/* nav end */
+
+/* intro section */
 .intro-h1 {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -42,7 +45,7 @@ navbar-nav {
   color: #fff;
   text-shadow: 2px 2px #F37748;
 }
-
+/* into section end */
 
 /* footer */
  footer {
@@ -55,7 +58,7 @@ navbar-nav {
 #footer-details {
   padding: 2.5rem;
 }
-
+/* footer icons */
 .fab {
   padding: 1.5rem;
   font-size: 2rem;
@@ -87,11 +90,15 @@ navbar-nav {
 .social-links li a i:hover {
   background: #4B4453;
 }
+
+/* form button */
 .btn-lg {
     color: #fff;
     background-color: #F37748;
     border-color: #fff;
 }
+
+/* line block */ 
 .line {
     width: 20%;
     border-bottom: 3px solid;
@@ -100,6 +107,7 @@ navbar-nav {
     color: #F37748;
 
 }
+/* mosiac image */
 #intro-image {
   background: linear-gradient(to bottom, rgba(34, 143, 255, 0.4) 0%, rgba(79, 70, 87, 0.3) 100%), url(../images/background.jpg) no-repeat center 75%;
   background-size: cover;
@@ -114,6 +122,8 @@ navbar-nav {
 form {
     height: 70vh;
 }
+/* text */
+
 p,
 h1,
 h2,
