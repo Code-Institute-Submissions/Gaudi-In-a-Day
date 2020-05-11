@@ -28,6 +28,10 @@ navbar-nav {
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
 }
+
+.navbar-light .navbar-toggler {
+    border-color: #f37748;
+}
 /* nav end */
 
 /* intro section */
