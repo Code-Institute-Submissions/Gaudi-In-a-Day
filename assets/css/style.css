@@ -1,129 +1,154 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
-
-
 html {
-  scroll-behavior: smooth;
-}
-body {
-  font-family: "Noto Sans", sans-serif;
-  font-weight: 400;
-  text-align: center;
+	scroll-behavior: smooth;
 }
 
-/* nav */ 
+body {
+	font-family: "Noto Sans", sans-serif;
+	font-weight: 400;
+	text-align: center;
+}
+
+
+/* nav */
+
 nav a:hover {
-  background-color: #F37748;
-  color: #fff;
+	background-color: #F37748;
+	color: #fff;
 }
 
 navbar-nav {
-  color: #fff;
+	color: #fff;
 }
+
 .fixed-top {
-    background:#f3774896;
+	background: #f3774896;
 }
+
 .navbar-light .navbar-brand {
-    color: #fff;
+	color: #fff;
 }
+
 .navbar-light .navbar-nav .nav-link {
-    color: #fff;
+	color: #fff;
 }
 
 .navbar-light .navbar-toggler {
-    border-color: #f37748;
+	border-color: #f37748;
 }
+
+
 /* nav end */
 
+
 /* intro section */
+
 .intro-h1 {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  text-align: center;
-  color: #fff;
-  text-shadow: 2px 2px #F37748;
-  font-size: 6rem;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+	text-align: center;
+	color: #fff;
+	text-shadow: 2px 2px #F37748;
+	font-size: 6rem;
 }
 
 .intro-h2 {
-  text-align: center;
-  color: #fff;
-  text-shadow: 2px 2px #F37748;
+	text-align: center;
+	color: #fff;
+	text-shadow: 2px 2px #F37748;
 }
+
+
 /* into section end */
 
+
 /* footer */
- footer {
-  background-color: #F37748;
-  color: #fff;
-  min-height: 120px;
-  margin: 0;
+
+footer {
+	background-color: #F37748;
+	color: #fff;
+	min-height: 120px;
+	margin: 0;
 }
 
 #footer-details {
-  padding: 2.5rem;
+	padding: 2.5rem;
 }
+
 
 /* footer icons */
+
 .fab {
-  padding: 1.5rem;
-  font-size: 2rem;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
+	padding: 1.5rem;
+	font-size: 2rem;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
 }
+
 .footer-details {
-  background: #3B5998;
-  color: white;
+	background: #3B5998;
+	color: white;
 }
+
 .social-links li a i {
-  width: 32px;
-  height: 32px;
-  padding: 12px 0;
-  border-radius: 50%;
-  font-size: 1.5rem;
-  line-height: 7px;
-  color: #fafafa;
-  background: transparent;
-  transition: all 0.35s ease-in-out;
-  -moz-transition: all 0.35s ease-in-out;
-  -webkit-transition: all 0.35s ease-in-out;
-  -o-transition: all 0.35s ease-in-out;
+	width: 32px;
+	height: 32px;
+	padding: 12px 0;
+	border-radius: 50%;
+	font-size: 1.5rem;
+	line-height: 7px;
+	color: #fafafa;
+	background: transparent;
+	transition: all 0.35s ease-in-out;
+	-moz-transition: all 0.35s ease-in-out;
+	-webkit-transition: all 0.35s ease-in-out;
+	-o-transition: all 0.35s ease-in-out;
 }
+
 .social-links li a i:hover {
-  background: #4B4453;
+	background: #4B4453;
 }
+
 
 /* form button */
+
 .btn-lg {
-    color: #fff;
-    background-color: #F37748;
-    border-color: #fff;
+	color: #fff;
+	background-color: #F37748;
+	border-color: #fff;
 }
 
-/* line block */ 
+
+/* line block */
+
 .line {
-    width: 20%;
-    border-bottom: 3px solid;
-    display: block;
-    margin: 50px auto;
-    color: #F37748;
-
+	width: 20%;
+	border-bottom: 3px solid;
+	display: block;
+	margin: 50px auto;
+	color: #F37748;
 }
+
+
 /* mosiac image */
+
 #intro-image {
-  background: linear-gradient(to bottom, rgba(34, 143, 255, 0.4) 0%, rgba(79, 70, 87, 0.3) 100%), url(../images/background.jpg) no-repeat center 75%;
-  background-size: cover;
-  position: relative;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+	background: linear-gradient(to bottom, rgba(34, 143, 255, 0.4) 0%, rgba(79, 70, 87, 0.3) 100%), url(../images/background.jpg) no-repeat center 75%;
+	background-size: cover;
+	position: relative;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
 }
 
 form {
-    height: 70vh;
+	height: 70vh;
 }
+
+
 /* text */
 
 p,
@@ -132,14 +157,15 @@ h2,
 h3,
 h4,
 h5 {
-  margin-top: 1rem;
-  margin-bottom: 3rem;
-  text-align: center;
-  color: #4B4453;
+	margin-top: 1rem;
+	margin-bottom: 3rem;
+	text-align: center;
+	color: #4B4453;
 }
+
 
 /* image card styling */
-.card-class img:hover {
-  opacity: 0.3;
-}
 
+.card-class img:hover {
+	opacity: 0.3;
+}
