@@ -112,7 +112,8 @@ Below are a list of the programming languages, technologies and frameworks used 
 * Google Chrome Developer Tools
 ## Testing
 
-All **HTML** code was put through the [W3C](https://validator.w3.org/) Validator tool and resulted in 0 errors found. 
+**HTML** was put through the [W3C](https://validator.w3.org/) Validator tool and resulted in 0 errors found. 
+
 **CSS** was also put through [W3C](https://jigsaw.w3.org/css-validator/) and resulted in 0 errors found.
 ### Platforms:
 * Ipad (768 x 1024)
@@ -123,11 +124,15 @@ All **HTML** code was put through the [W3C](https://validator.w3.org/) Validator
 * Lenovo Idea Pad (Windows 10)
 
 **Test**: Testing on mobile screens to ensure layout was as how it should be. 
+
 **Implementation**: Having to remove the VH of 100 as this moved it's contence down which resulted in a cluster of content which looked very messy and was unreadable. 
+
 **Result**: Removed all VH and added padding instead to ensure layout is now fixed. All 3 images click correctly and link down to image an information
 
 **Test**: Tested use of filling out contact form and modal.
+
 **Implementation**: Filled in form and checked  button worked.
+
 **Result**: Form won't submit due to running out of time to test it as a submitting button without interfering with my modal. Modal works correctly on all screens.
 
 
@@ -139,15 +144,21 @@ Manual testing was also conducted to ensure the user story objectives were achie
 ## Bugs
 
 **Bug**: At the beginning of this project I knew what I wanted it to look like, I unfortunately focused on Desktop screen more that Mobile this meant that the 3 card images that are click-able with the 3 buildings were supposed to grow in size I later found out that when being selected they were moving the titles of the images and the about section with Gaudi.
+
 **Fix**: To fix this I removed the growth as it didn't work well with tablet or mobile and applied an opacity blur to the images which looks a lot better.
+
 **Result**: Images can now be clicked, No movement of the titles.
 
 **Bug**:I also came to learn the smooth scrolling behaviour I had implemented for a smooth transaction between the navigation bar and the images wasn't working on most browsers.
+
 **Fix**: Would be to find a more better option.
+
 **Result**: I have kept it for better UX when on tablets/mobiles.
 
 **Bug:** The Contact Form form when you submit it it doesn't actually submit the information collected.
+
 **Fix:** Fix for this would be to turn the button into a submit button but without it interfering with the modal.
+
 **Result:** Unfortunately  I ran out of time before this could get resolved.
 ## Deployment
 
