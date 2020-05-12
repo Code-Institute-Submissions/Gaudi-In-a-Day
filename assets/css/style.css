@@ -38,9 +38,6 @@ navbar-nav {
 }
 
 
-/* nav end */
-
-
 /* intro section */
 
 .intro-h1 {
@@ -57,9 +54,6 @@ navbar-nav {
 	color: #fff;
 	text-shadow: 2px 2px #F37748;
 }
-
-
-/* into section end */
 
 
 /* footer */
@@ -130,6 +124,18 @@ footer {
 	color: #F37748;
 }
 
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+	text-align: center;
+	color: #4B4453;
+}
+
 
 /* mosiac image */
 
@@ -146,21 +152,6 @@ footer {
 
 form {
 	height: 70vh;
-}
-
-
-/* text */
-
-p,
-h1,
-h2,
-h3,
-h4,
-h5 {
-	margin-top: 1rem;
-	margin-bottom: 3rem;
-	text-align: center;
-	color: #4B4453;
 }
 
 
