@@ -35,7 +35,7 @@ Other features that are to note is the user can get in touch easily by navigatio
 
  
 ## Wireframes
----
+
 * [Desktop view](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Desktop.png)
 * [Tablet view](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Tablet.png)
 * [Mobile view](https://github.com/Taitdanielle/Gaudi-In-a-Day/blob/master/wireframes/Mobile.png)
